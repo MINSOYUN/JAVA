@@ -1,0 +1,6 @@
+1 불편한편의점 나가사키 false 
+6 되니 되나 false 
+7 행운의 숫자 false 
+8 아이스티 다녹음 false 
+10 웩 집 true 대여중
+90 버스 언제와 false 
